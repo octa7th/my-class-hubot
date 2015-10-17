@@ -2,6 +2,7 @@
   "hubot-diagnostics",
   "hubot-help",
   "hubot-equation",
+  "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-thank-you",
