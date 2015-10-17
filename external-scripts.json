@@ -7,6 +7,7 @@
   "hubot-thank-you",
   "hubot-calculator",
   "hubot-garble",
+  "hubot-ab",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
